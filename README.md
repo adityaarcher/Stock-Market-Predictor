@@ -86,11 +86,4 @@ Market data is for informational purposes only and is not investment advice.
 
 ## Push to GitHub
 
-```bash
-git init
-git add .
-git commit -m "Initial commit: MarketPulse dashboard"
-git branch -M main
-git remote add origin https://github.com/<your-username>/market-pulse.git
-git push -u origin main
-```
+
